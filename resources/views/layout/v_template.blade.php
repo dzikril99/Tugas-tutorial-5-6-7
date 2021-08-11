@@ -66,7 +66,7 @@
                 <img src="{{asset('template/')}}/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Dzikril Auliya - Web Developer
+                Dzikril Auliya - Web Developer
                   <small>Member since Nov. 2012</small>
                 </p>
               </li>
